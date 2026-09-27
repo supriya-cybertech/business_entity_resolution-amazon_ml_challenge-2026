@@ -1,1 +1,1 @@
-# business_entity_resolution-amazon_ml_challenge-2026
+End-to-End Business Entity Resolution Pipeline using LightGBM and RapidFuzz - Amazon ML Challenge 2026.
