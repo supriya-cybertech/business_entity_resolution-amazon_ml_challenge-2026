@@ -1,7 +1,7 @@
 # ML Challenge 2026: Business Entity Resolution Solution Template
 
 **Team Name:** *Mark-85 Matrix*  
-**Team Members:** Supriya Kumari , Rohit Kumar Panda 
+**Team Members:** Supriya Kumari , Rohit Kumar Panda  
 **Submission Date:** September 27, 2026  
 
 ---
