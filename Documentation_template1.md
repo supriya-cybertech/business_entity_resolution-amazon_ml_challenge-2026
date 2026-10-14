@@ -7,6 +7,7 @@
 ---
 
 ## 1. Executive Summary
+
 Our solution implements a highly scalable, two-stage Entity Resolution pipeline designed to reconcile noisy business records across disparate sources. We utilized a composite heuristic blocking strategy to drastically reduce the O(N²) search space, followed by a LightGBM classifier with F_0.5 calibrated thresholding to maximize precision and eliminate false merges.
 
 ---
